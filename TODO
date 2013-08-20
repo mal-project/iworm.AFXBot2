@@ -1,0 +1,8 @@
+AFXBot 2.2
+----------
+[*] Threads management.
+[*] Multi user/multi login.
+[*] Users privileges.
+[*] Cryptography modules for authentication.
+[*] New modules: SMTP, screen capture, file send (through irc).
+[*] New commands: .clone, .connect, .uninstall (.remove), .update, .msg

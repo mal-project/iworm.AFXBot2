@@ -1,0 +1,3 @@
+LIBRARY hello
+EXPORTS
+ibm_init

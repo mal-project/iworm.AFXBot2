@@ -1,0 +1,15 @@
++ la consola recibe entradas (caracteres) hasta encontrar CRLF.
+entonces "deberia" limpiar el buffer o mandar una nueva linea o algo asi
+para mantener algo legible la cosa.
+remore shell at 127.0.0.1:1337> dir
+.\
+..\
+test.txt
+nude.jpg
+
+remore shell at 127.0.0.1:1337>
+
++ asi mismo, por supuesto, tiene que mostrar los resultados devueltos etc.
+
++ La shell recibe como parametro la ip y el puerto al cual conectarse
+shell 127.0.0.1 1337

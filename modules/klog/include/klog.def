@@ -1,0 +1,3 @@
+LIBRARY klog
+EXPORTS
+ibm_init

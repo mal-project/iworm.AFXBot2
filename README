@@ -1,0 +1,13 @@
+AFXBot 2.1
+
+AFXBot is an irc-bot with back-door, remote shell, proxy and http/ftp
+functionalities written by Aphex.
+
+AFXBot 2.1 is a rewritten work, simplified and focused on modularity with
+no functionality except main irc-bot. Additional functionalities such
+as in previous version can be added throughout so called modules.
+
+This version has been written with educational proposes hence code is highly
+commented and explained. See also the documentation for further details.
+
+Asphyxia//MAL

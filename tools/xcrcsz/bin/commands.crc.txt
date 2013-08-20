@@ -1,0 +1,14 @@
+String: '.login' - CRC: 0E04EF9E8h
+String: '.die' - CRC: 0A79021D4h
+String: '.restart' - CRC: 0F34B5274h
+String: '.status' - CRC: 0C82C5900h
+String: '.modules' - CRC: 03A0533A4h
+String: '.unloadm' - CRC: 0417051E3h
+String: '.reloadm' - CRC: 0EE109FAEh
+String: '11235813213455' - CRC: 05F4581B5h
+String: '-v' - CRC: 0D8959C19h
+String: 'PING' - CRC: 01340D049h
+String: '001' - CRC: 055B20A4Bh
+String: '005' - CRC: 052DFCE52h
+String: '433' - CRC: 097989078h
+String: 'PRIVMSG' - CRC: 045163144h
